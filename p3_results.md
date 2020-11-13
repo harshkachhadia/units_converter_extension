@@ -34,8 +34,6 @@ The following responses were taken in Form2:
 
 ## Observations
 
-## Observations
-
 ![](images/1.png)
 
 ![](images/2.png)
