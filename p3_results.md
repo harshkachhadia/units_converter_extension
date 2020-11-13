@@ -70,3 +70,7 @@ Since the duration required by a participant to solve a question using the unit 
 
 We had a handful of learnings from conducting this experiment
 
+- **The unit converter extension is a very useful extension in converting the measurements to other units**
+
+ As we see from the graphs the time required to solve the questions has reduced considerably while using the unit extension converter
+
