@@ -58,9 +58,9 @@ The following responses were taken in Form2:
 
 Our threats to validity can be summarized in a few key points
 
-* We did not time the bugs very precisely. 
+* We did not time the time required to solve a question very precisely. 
 
-Since the duration required by a participant to solve a question using the unit converter was very less we might have missed to report the accurate time to solve a question. This could also skew our results in the form of either bias, or simply forgetfullness. 
+Since the duration required by a participant to solve a question using the unit converter was very less we might have missed to report the accurate time to solve a question. This could  skew our results in the form of either bias, or simply forgetfullness. 
 
 * Our sample size is small.
 
