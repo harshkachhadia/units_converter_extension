@@ -39,20 +39,34 @@ The following responses were taken in Form2:
 ![](images/2.png)
 
 
-1. From the graph we see that the average ease of running a language was the highest for Dart followed by Lua and then Golang.
-2. From the graph we see that the confidence of the user that a bug was fixed was the highest for Lua followed by Golang and then Dart.
-3. From the graph we see that the people debugging the code found Dart to be easiest followed by Golang and then Lua.
-4. Prior programming experience with a similar language aids a programmer in debugging an uncommon language with respect to language syntaxes and rules.
-5. Debugging was comparatively easier for participants who had coded Game of Life in some other language familier to them.(makes thier logic clear)
-6. Participants faced less difficulties in debugging codes that contained meaningful variable naming and comments all over the code.
-
+1. From the graph we see that the installation time is considerably higher when compared to the time required to solve the questions.
+2. From the graph we see that there is no major difference in the minimum time required to solve the questions while using the unit converter extension.
+3. From the graph we see that the maximum time required to solve the questions has been reduced by two-thirds whileusing the unit converter extension.
+4. From the graph we see that the median time required to solve the questions has also been reduced by around half while using the unit converter extension.
+5. From the graph we see that the standard derivation time required to solve the questions has been reduced by two-thirds while using the unit converter extension.
 
 
 ## Conclusions
 
-1. Even though the people debugging the code found Dart to be the easiest to understand, they were least confident in fixing the bugs.
-2. Even though the people debugging the code found Lua to be the toughest to understand, they were most confident in fixing the bugs.
-3. People debugging the code found Golang in between Lua and Dart in easiness to understand and in confidence of fixing the bug.
-1. It is easy to learn a new language, if you have previously worked with some language following same programming paradigm.
-2. Prior understanding of flow and logic of the program has proved out to be a necessary condition before starting code debugging.
-3. Proper variable naming convention and documentation of code with comments aids an external person a lot, while debugging or understanding the code.
+1. The maximum time spent in this project is during the installation.
+2. The unit converter extension is not very helpful in reducing the minimum time required to solve the questions.
+3. The unit converter extension is quite helpful in bringing down the maximum time required to solve the questions.
+4. The unit converter extension is quite helpful in solving the questions easily once the installation is done.
+5. The unit converter extension is quite helpful in significantly reducing the standard deviation of a group therby saving a lot of time.
+
+## Threats to Validity
+
+Our threats to validity can be summarized in a few key points
+
+* We did not time the bugs very precisely. 
+
+Since the duration required by a participant to solve a question using the unit converter was very less we might have missed to report the accurate time to solve a question. This could also skew our results in the form of either bias, or simply forgetfullness. 
+
+* Our sample size is small.
+
+10 participants is very small for an experiment to draw meaningful conclusions from. 
+
+## Learnings
+
+We had a handful of learnings from conducting this experiment
+
