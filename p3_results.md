@@ -34,3 +34,27 @@ The following responses were taken in Form2:
 
 ## Observations
 
+## Observations
+
+![](images/1.png)
+
+![](images/2.png)
+
+
+1. From the graph we see that the average ease of running a language was the highest for Dart followed by Lua and then Golang.
+2. From the graph we see that the confidence of the user that a bug was fixed was the highest for Lua followed by Golang and then Dart.
+3. From the graph we see that the people debugging the code found Dart to be easiest followed by Golang and then Lua.
+4. Prior programming experience with a similar language aids a programmer in debugging an uncommon language with respect to language syntaxes and rules.
+5. Debugging was comparatively easier for participants who had coded Game of Life in some other language familier to them.(makes thier logic clear)
+6. Participants faced less difficulties in debugging codes that contained meaningful variable naming and comments all over the code.
+
+
+
+## Conclusions
+
+1. Even though the people debugging the code found Dart to be the easiest to understand, they were least confident in fixing the bugs.
+2. Even though the people debugging the code found Lua to be the toughest to understand, they were most confident in fixing the bugs.
+3. People debugging the code found Golang in between Lua and Dart in easiness to understand and in confidence of fixing the bug.
+1. It is easy to learn a new language, if you have previously worked with some language following same programming paradigm.
+2. Prior understanding of flow and logic of the program has proved out to be a necessary condition before starting code debugging.
+3. Proper variable naming convention and documentation of code with comments aids an external person a lot, while debugging or understanding the code.
