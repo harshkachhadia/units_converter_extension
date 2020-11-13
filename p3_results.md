@@ -43,7 +43,7 @@ The following responses were taken in Form2:
 2. From the graph we see that there is no major difference in the minimum time required to solve the questions while using the unit converter extension.
 3. From the graph we see that the maximum time required to solve the questions has been reduced by two-thirds whileusing the unit converter extension.
 4. From the graph we see that the median time required to solve the questions has also been reduced by around half while using the unit converter extension.
-5. From the graph we see that the standard derivation time required to solve the questions has been reduced by two-thirds while using the unit converter extension.
+5. From the graph we see that the standard deviation time required to solve the questions has been reduced by two-thirds while using the unit converter extension.
 
 
 ## Conclusions
