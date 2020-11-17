@@ -32,7 +32,7 @@ The following responses were taken in Form2:
 * Do you plan to use this extension in the future? 
 
 
-## Observations
+## Timing Observations
 
 ![](images/1.png)
 
@@ -40,11 +40,16 @@ The following responses were taken in Form2:
 
 
 1. From the graph we see that the installation time is considerably higher when compared to the time required to solve the questions.
-2. From the graph we see that there is no major difference in the minimum time required to solve the questions while using the unit converter extension.
-3. From the graph we see that the maximum time required to solve the questions has been reduced by two-thirds whileusing the unit converter extension.
-4. From the graph we see that the median time required to solve the questions has also been reduced by around half while using the unit converter extension.
+2. From the graph we see that there is no major difference in the minimum time (3 seconds) required to solve the questions while using the unit converter extension.
+3. From the graph we see that the maximum time required to solve the questions has been reduced by two-thirds (61 seconds to 20 seconds) whileusing the unit converter extension.
+4. From the graph we see that the median time required to solve the questions has also been reduced by around half (9.5 seconds to 5 seconds) while using the unit converter extension.
 5. From the graph we see that the standard deviation time required to solve the questions has been reduced by two-thirds while using the unit converter extension.
 
+## Correctness Observations
+
+In both of our quizzes, users had predominatly correct answers. In our first quiz without the converter, we saw an average of 2.8 out of possible score of 3. For our second quiz with the converter, we saw an average of 2.9 out of a possible score of 3. 
+
+We believe this gives us confidence that the units converter is indeed speeding up user ability to perform conversions without correctly given our timing observations listed abobe.
 
 ## Conclusions
 
@@ -60,7 +65,7 @@ Our threats to validity can be summarized in a few key points
 
 * We did not time the time required to solve a question very precisely. 
 
-Since the duration required by a participant to solve a question using the unit converter was very less we might have missed to report the accurate time to solve a question. This could  skew our results in the form of either bias, or simply forgetfullness. 
+Since the duration required by a participant to solve a question using the unit converter was very less we might have missed to report the accurate time to solve a question. This could skew our results in the form of either bias, or simply forgetfullness. 
 
 * Our sample size is small.
 
